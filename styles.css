@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 #mainheader{
     height: 74px;
     width: 100vw;
@@ -14,5 +19,27 @@
     height: 40px;
     width: 118.16px;
     padding-top: 17px;
-    padding-left: 110px;
+    padding-left: 397px;
+}
+
+ul{
+    font-family: sans-serif;
+    color:#FFFFFF;
+    display: inline-block; 
+    float: right;
+    padding-top: 30px;
+    padding-right: 400px;
+    font-size: 11px;
+}
+
+li{
+    display: inline-block;
+    margin-right: 37px;
+    font-style: bold;
+}
+
+#search{
+    height: 40px;
+    width: 40px;
+    float: right;
 }
