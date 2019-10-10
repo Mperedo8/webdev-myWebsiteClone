@@ -43,3 +43,15 @@ li{
     width: 40px;
     float: right;
 }
+
+#herosection{
+    width: 100vw;
+    height: 580px;
+    padding-top: 200px;
+  
+}
+
+#fallspic{
+    height: 540px;
+    width: 540px;
+}
