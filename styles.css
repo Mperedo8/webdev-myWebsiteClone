@@ -47,11 +47,35 @@ li{
 #herosection{
     width: 100vw;
     height: 580px;
-    padding-top: 200px;
+    padding-top: 120px;
   
 }
 
 #fallspic{
     height: 540px;
-    width: 540px;
+    width: 590px;
+    padding-left: 397px;
+}
+
+#navbar2{
+    color: #000000;
+    float: right;
+
+}
+
+#navbar2 li{
+    margin-right: 42px;
+}
+
+#leftnav{
+    padding-right: 105px;
+}
+
+#discoverthefalls{
+    height: 540px;
+    width: 590px;
+}
+
+#dots{
+    margin-left: 910px;
 }
