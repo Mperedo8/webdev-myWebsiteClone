@@ -79,3 +79,71 @@ li{
 #dots{
     margin-left: 910px;
 }
+
+#leftarrow, #rightarrow{
+    height: 20px;
+    width: 20px;
+    padding-top: 80px;
+    padding-left: 200px;
+    margin-bottom: 105px;
+}
+
+#AmericanGirl, #apple, #changs, #regal{
+    height: 138px;
+    width: 138px;
+    margin: 50px;
+    margin-right: 80px;
+}
+
+#abovefooter{
+    height: 300px;
+    width: 1300px;
+    margin-left: 200px;
+}
+
+p{
+    background-color: black;
+    color: white;
+    padding-left: 700px;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+
+#socialmedia{
+    padding-top: 30px;
+    padding-left: 190px;
+}
+
+#search2{
+    margin-left: 700px;
+    padding-bottom: 15px;
+}
+
+#find{
+    padding-bottom: 20px;
+    margin-left: 5px;
+}
+
+#line{
+    padding-left: 300px;
+    margin-top: 20px;
+}
+
+#footer2{
+    color: black;
+    margin-right: 590px;
+    font-style: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#footer{
+    color:black;
+    margin-right: 590px;
+}
+
+h4{
+    margin-top: 300px;
+    margin-left: 200px;
+    font-family: sans-serif;
+    font-style: none;
+}
